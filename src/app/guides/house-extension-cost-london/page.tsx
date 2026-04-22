@@ -172,7 +172,7 @@ export default function HouseExtensionCostLondonPage() {
             <h2 className="font-headline text-2xl font-black text-primary mb-4 tracking-tight">Side Return Extension Cost London</h2>
             <Image src="/images/interior_open_plan_kitchen_extension.webp" alt="Open-plan kitchen created by side return extension in London" width={800} height={450} className="w-full rounded-lg mb-6 object-cover aspect-video" />
             <p className="text-charcoal leading-relaxed mb-4">Victorian terraces — which dominate inner London from Islington and Hackney to Brixton and Hammersmith — were built with a narrow side alley alongside the rear projection of the kitchen. Infilling this alley with a side return extension widens the ground floor by typically 1.5m–2.5m, transforming a narrow galley kitchen into a genuine open-plan space without touching the garden.</p>
-            <p className="text-charcoal leading-relaxed mb-4"><strong>Typical cost: £40,000–£80,000.</strong> The cost depends primarily on the length of the side return, the type of roof (glazed roof light is popular here — it brings natural light into the centre of the plan), and the complexity of the party wall work. Because you are building against the neighbour's wall, a Party Wall Agreement is usually required — we advise on this and can recommend surveyors.</p>
+            <p className="text-charcoal leading-relaxed mb-4"><strong>Typical cost: £40,000–£80,000.</strong> The cost depends primarily on the length of the side return, the type of roof (glazed roof light is popular here — it brings natural light into the centre of the plan), and the complexity of the party wall work. Because you are building against the neighbour&apos;s wall, a Party Wall Agreement is usually required — we advise on this and can recommend surveyors.</p>
             <p className="text-charcoal leading-relaxed">Side returns often qualify under permitted development, though in conservation areas you may need planning consent for roof glazing or rendered finishes.</p>
           </div>
 
@@ -203,7 +203,7 @@ export default function HouseExtensionCostLondonPage() {
               },
               {
                 title: "Party wall position",
-                body: "Extensions adjacent to a neighbour's wall trigger the Party Wall Act 1996. This requires serving a notice and, if the neighbour appoints their own surveyor, paying their surveyor's fees (typically £800–£1,500). We advise on timing and can recommend party wall surveyors who work efficiently and fairly.",
+                body: "Extensions adjacent to a neighbour&apos;s wall trigger the Party Wall Act 1996. This requires serving a notice and, if the neighbour appoints their own surveyor, paying their surveyor's fees (typically £800–£1,500). We advise on timing and can recommend party wall surveyors who work efficiently and fairly.",
               },
               {
                 title: "Roof type and glazing",
@@ -230,7 +230,7 @@ export default function HouseExtensionCostLondonPage() {
       {/* What's included */}
       <section className="px-6 mb-16 md:mb-20">
         <div className="max-w-4xl mx-auto">
-          <h2 className="font-headline text-2xl md:text-3xl font-black text-primary mb-4 tracking-tight">What's Included in Our Extension Quote?</h2>
+          <h2 className="font-headline text-2xl md:text-3xl font-black text-primary mb-4 tracking-tight">What&apos;s Included in Our Extension Quote?</h2>
           <p className="text-charcoal mb-8 leading-relaxed">Our fixed-price quotations are comprehensive. We do not itemise down to every brick — but we also do not hide costs that other builders treat as variations. Here is what is always included:</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {[

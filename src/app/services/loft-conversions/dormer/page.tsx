@@ -91,7 +91,7 @@ export default function DormerLoftConversionPage() {
             <span className="text-secondary italic">London</span>
           </h1>
           <p className="text-lg text-charcoal leading-relaxed mb-8 max-w-2xl">
-            The rear dormer is London's most popular loft conversion — and for good reason. It transforms the dead space in a Victorian or Edwardian terrace into a full-height bedroom with en-suite, usually under permitted development, in 8–12 weeks.
+            The rear dormer is London&apos;s most popular loft conversion — and for good reason. It transforms the dead space in a Victorian or Edwardian terrace into a full-height bedroom with en-suite, usually under permitted development, in 8–12 weeks.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Link href="/contact" className="bg-secondary text-white font-label font-bold py-4 px-8 rounded-full text-center inline-flex items-center justify-center gap-2 transition-transform active:scale-95 hover:bg-secondary/90">
@@ -125,7 +125,7 @@ export default function DormerLoftConversionPage() {
           <div className="grid md:grid-cols-2 gap-8 items-start">
             <div className="space-y-4 text-charcoal leading-relaxed">
               <p>A dormer loft conversion adds a box-shaped structure to the rear roof slope, pushing outward and upward to create a room with full standing headroom. The dormer has vertical walls, a flat roof (or shallow-pitched roof), and one or more windows facing into the garden.</p>
-              <p>This is the most common loft conversion in London precisely because Victorian and Edwardian terraces — which make up the majority of inner London's housing stock — have sloped roofs that do not provide enough head height without a structural alteration. The dormer solves this completely.</p>
+              <p>This is the most common loft conversion in London precisely because Victorian and Edwardian terraces — which make up the majority of inner London&apos;s housing stock — have sloped roofs that do not provide enough head height without a structural alteration. The dormer solves this completely.</p>
               <p>The result is a genuine habitable room: a bedroom, a study, or a home office, typically with space for an en-suite bathroom. Most rear dormers are built under permitted development — no planning application required.</p>
             </div>
             <div className="space-y-4">
