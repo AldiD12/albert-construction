@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { LocationPage } from "@/components/LocationPage";
 import { getLocationBySlug } from "@/data/locations";
 
-const locationData = getLocationBySlug("watford")\!;
+const locationData = getLocationBySlug("watford")!;
 
 export const metadata: Metadata = {
   title: "Builders Covering Watford | Extensions, Lofts & Renovations | Albert Construction",
