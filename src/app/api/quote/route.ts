@@ -36,8 +36,8 @@ export async function POST(request: Request) {
 
     const resend = getResendClient();
     const { data, error } = await resend.emails.send({
-      from: "Albert Construction <onboarding@resend.dev>",
-      to: ["aldidemleka19@gmail.com"],
+      from: "Albert Construction <quotes@albertconstructionltd.co.uk>",
+      to: ["albertconstructionltd@outlook.com"],
       replyTo: email || undefined,
       subject: `New Quote Request — ${serviceLabel} in ${postcode || "N/A"}`,
       html: `
